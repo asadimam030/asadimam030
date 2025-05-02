@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asad Imam</h1>
+<h1 align="center">Hi 👋, I'm Asad Imam.</h1>
 <h3 align="center">Aspiring Data Analyst 📊 | SQL Query Optimizer ⚡ | Excel & Statistics Enthusiast 📈</h3>
 
 <div align="center">
